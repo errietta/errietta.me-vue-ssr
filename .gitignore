@@ -1,0 +1,7 @@
+node_modules
+.sw?
+.*.sw?
+dist
+.dependencies
+config.json
+.env
